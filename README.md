@@ -5,5 +5,5 @@ Messy code with multiple div sections was given along with a style sheet. The ta
 # HWWK1
 
 Structure:
-    Html in order as given per formatting title>header>body>footer.
-    Css ordered as class/ID general formatting followed by elements in their order as seen on the page.
+    <br>Html in order as given per formatting title>header>body>footer.
+    <br>Css ordered as class/ID general formatting followed by elements in their order as seen on the page.
